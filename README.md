@@ -33,6 +33,8 @@
 
 - 范例程序
 
+参考[Read-Write Pattern/source](Read-Write Pattern/source)
+
 - 相关模型
 
  - Immutable Pattern
